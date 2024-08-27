@@ -63,3 +63,5 @@ For the latest troubleshooting information please visit:
 ```
 
 - - -
+
+Do not taunt Happy Fun Ball.
